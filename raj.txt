@@ -1,1 +1,2 @@
 this is new text file
+I am writing in this file
